@@ -10,6 +10,7 @@ public class SalaryCalculator {
             double taxes = salary*0.20;
         } if (salary<=0){
             System.out.println("wrong input");
+
         }
     }
 }
